@@ -32,7 +32,7 @@ function App() {
   useEffect(() => {
     dispatch(refreshToken())
 
-    const socket = io()
+    const socket = io('https://sociallink-backend.onrender.com')
     dispatch({type: GLOBALTYPES.SOCKET, payload: socket})
     return () => socket.close()
   },[dispatch])
