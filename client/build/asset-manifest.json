@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f236357.chunk.css",
+    "main.js": "/static/js/main.618cacc7.chunk.js",
+    "main.js.map": "/static/js/main.618cacc7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.24ab0ff2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.24ab0ff2.js.map",
+    "static/js/2.a37a0b3f.chunk.js": "/static/js/2.a37a0b3f.chunk.js",
+    "static/js/2.a37a0b3f.chunk.js.map": "/static/js/2.a37a0b3f.chunk.js.map",
+    "static/js/3.2cc796e4.chunk.js": "/static/js/3.2cc796e4.chunk.js",
+    "static/js/3.2cc796e4.chunk.js.map": "/static/js/3.2cc796e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6f236357.chunk.css.map": "/static/css/main.6f236357.chunk.css.map",
+    "static/js/2.a37a0b3f.chunk.js.LICENSE.txt": "/static/js/2.a37a0b3f.chunk.js.LICENSE.txt",
+    "static/media/got-it-done-613.89a311f0.mp3": "/static/media/got-it-done-613.89a311f0.mp3",
+    "static/media/loading.gif": "/static/media/loading.10625dac.gif",
+    "static/media/ringring.278d7816.mp3": "/static/media/ringring.278d7816.mp3",
+    "static/media/send.fab9d966.svg": "/static/media/send.fab9d966.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24ab0ff2.js",
+    "static/js/2.a37a0b3f.chunk.js",
+    "static/css/main.6f236357.chunk.css",
+    "static/js/main.618cacc7.chunk.js"
+  ]
+}
