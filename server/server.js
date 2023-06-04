@@ -26,7 +26,12 @@ app.use(cookieParser())
 
 // Socket
 const http = require('http').createServer(app)
-const io = require('socket.io')(http)
+const io = require('socket.io')(http ,{
+    cors: {
+        origin: "https://socialllink.netlify.app",
+        methods: ["GET", "POST","PUT","DELETE"]
+      }
+})
 
 io.on('connection', socket => {
     SocketServer(socket)
